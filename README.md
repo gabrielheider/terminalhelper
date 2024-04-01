@@ -36,7 +36,7 @@
 
 **Clone the Repository**:
 ```bash
-git clone https://github.com/yourusername/terminalhelper.git
+git clone https://github.com/gabrielheider/terminalhelper.git
 cd terminalhelper
 ```
 **Install nlohman**
