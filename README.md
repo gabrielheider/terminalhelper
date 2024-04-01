@@ -111,5 +111,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - All contributors and testers who made TerminalHelper possible.
 
 ---
-
-Note: Replace `path_to_logo_image` with the actual path or URL to your logo.
