@@ -102,7 +102,7 @@ We welcome contributions! Please follow the standard GitHub pull request process
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
